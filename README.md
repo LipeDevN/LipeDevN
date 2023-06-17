@@ -3,4 +3,5 @@
 - 🌱 I’m currently learning about JS frameworks
 - 💞️ I’m looking to collaborate on the front end of projects
 - 📫 How to reach me, linkedin in my bio
+- 🎮 I'm working in a project of a blog about my experience with games, please look!
 
